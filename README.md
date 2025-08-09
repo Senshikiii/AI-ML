@@ -37,7 +37,7 @@ AI-ML-/
 │    ├── notes.md
 │    └── data/
 
----
+
 
 ## 🚀 Goal
 By the end of Week 6, I will:
